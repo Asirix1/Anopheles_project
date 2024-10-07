@@ -1,4 +1,4 @@
-**CTCF Binding and Epigenetic Marker Pairing Analysis**
+**CTCF Binding and Epigenetic Marker Pairing Analysis**\n
 This repository contains scripts and data files for making CTCF pairs from CTCF binding motif and making pairs using various epigenetic markers in _Anopheles stephensi_. 
 
 Repository Structure
